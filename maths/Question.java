@@ -1,11 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author avi
+ * _all_ Question classes should implement this.
  */
 public interface Question {
 

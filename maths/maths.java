@@ -1,3 +1,7 @@
+/* This is basically a frontend to QuestionMaster.
+ *
+ */
+
 import java.util.Random;
 import java.io.Console;
 
